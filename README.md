@@ -33,9 +33,13 @@ Para criação, aquisição dos produtos
 
 ### Carrinho
 
-Para a criação, aquisição do carrinho de comprar dos usuários
+Para a criação, aquisição do carrinho de comprar dos usuários:
 
     POST /cart <br>
     GET /cart
+
+Para remover produtos do carrinho:
+
+    DELETE /cart/:id
 
 Obs.: Api em desenvolvimento
