@@ -6,6 +6,96 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "guilherme.desoler@gmail.com",
+      "password": "$2a$10$O2sgosuUxJBrwlz4RmKxx.W0JOIuUpWbH4MXkUORo45EZGoG6H16u",
+      "id": 2
+    },
+    {
+      "email": "guilherme_desoler@hotmail.com",
+      "password": "$2a$10$mTpOWrzzcsRIejF79JGyIexiLbhBSvwC1aqPLmScCK5Jfcq/v0MeO",
+      "id": 3
+    },
+    {
+      "email": "teste@teste.com",
+      "password": "$2a$10$fOc4eJsmL7w/7W67z55oQe5X1DyQueQ1xKE2d6oDafur6XOtqo37a",
+      "id": 4
+    },
+    {
+      "email": "teste2@teste.com",
+      "password": "$2a$10$PJhWZkCoZHyMvIi4DBf7du10x4zIVidQN9WQIXCZEX3HTiQOv49wa",
+      "id": 5
+    },
+    {
+      "email": "teste4@teste.com",
+      "password": "$2a$10$31Dsm7lfglFTBAobpruHoeRTOSSjZICvGtvZL2YbCuGNpcutBHPDa",
+      "id": 6
+    },
+    {
+      "email": "teste5@teste.com",
+      "password": "$2a$10$L1PPdfBxsRrkXngx3rARG.iJ7UQPaMk4EgmQvAtfsfvKt0l9hCite",
+      "id": 7
     }
-  ]
+  ],
+  "products": [
+    {
+      "name": "Hamburguer",
+      "image_url": "https://ibb.co/PFL4dZV",
+      "category": "Sanduíches",
+      "price": 14.0,
+      "id": 1
+    },
+    {
+      "name": "X-Burguer",
+      "image_url": "https://ibb.co/L81PLG8",
+      "category": "Sanduíches",
+      "price": 16.0,
+      "id": 2
+    },
+    {
+      "name": "Big Kenzie",
+      "image_url": "https://ibb.co/JCkWLBc",
+      "category": "Sanduíches",
+      "price": 18.0,
+      "id": 3
+    },
+    {
+      "name": "Combo Kenzie",
+      "image_url": "https://ibb.co/PcMPmXB",
+      "category": "Combos",
+      "price": 26.0,
+      "id": 4
+    },
+
+    {
+      "name": "Fanta Guaraná",
+      "image_url": "https://ibb.co/Fzz0X8V",
+      "category": "Bebidas",
+      "price": 5.0,
+      "id": 5
+    },
+    {
+      "name": "Coca-cola",
+      "image_url": "https://ibb.co/YtSxWdd",
+      "category": "Sanduíches",
+      "price": 7.0,
+      "id": 6
+    },
+    {
+      "name": "McShake Ovomaltine",
+      "image_url": "https://ibb.co/V3Mj8CJ",
+      "category": "Sobremesas",
+      "price": 10.0,
+      "id": 7
+    },
+    {
+      "name": "McFlurry",
+      "image_url": "https://ibb.co/ssWzmJc",
+      "category": "Sobremesas",
+      "price": 10.0,
+      "id": 8
+    }
+  ],
+  "cart": []
 }
